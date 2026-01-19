@@ -13,14 +13,10 @@ Use the branch dropdown → select class-practice.
 Click through: class-practice/FirstName-LastName/
 
 ## Step 4. Upload your files
-Click Add file → Upload files
-Then drag/drop your fies.
+Click Add file → Upload files → Then drag/drop your fies.
 
 ## Step 5. Commit your changes
-At the bottom:
-
-Write a short commit message (e.g., “Adds raw and cleaned CSV files”, for example)
-Click Commit changes
+At the bottom: Write a short commit message (e.g., “Adds raw and cleaned CSV files”, for example) → Click Commit changes
 
 ## Step 6. Verify upload
 Reload the page and check that your files appear in your folder.
