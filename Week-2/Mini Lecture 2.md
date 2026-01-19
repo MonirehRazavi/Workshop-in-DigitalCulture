@@ -40,10 +40,7 @@ Digital participation does not automatically create strong social bonds.
 - The group is very active for a short time.
 - Once the shared goal ends, the group becomes silent or disappears.
 
-**Explanation**
-This looks like a community, but it lacks long-term commitment or shared responsibility. People are connected, but only temporarily.
-
-> Gere calls this “community without community.” Digital culture allows people to feel connected without creating stable or lasting social bonds. Connection exists, but commitment does not.
+> This looks like a community, but it lacks long-term commitment or shared responsibility. People are connected, but only temporarily. Gere calls this “community without community.” Digital culture allows people to feel connected without creating stable or lasting social bonds. Connection exists, but commitment does not.
 
 ---
 
@@ -52,10 +49,7 @@ This looks like a community, but it lacks long-term commitment or shared respons
 - There is interaction, but little accountability.
 - Conversations can quickly become hostile or dismissive.
 
-**Explanation**
-There is participation, but no shared obligation to care for others in the space.
-
-> This shows how digital interaction can feel intense without being meaningful. Togetherness does not automatically produce community.
+> There is participation, but no shared obligation to care for others in the space. This shows how digital interaction can feel intense without being meaningful. Togetherness does not automatically produce community.
 
 ---
 
@@ -81,10 +75,8 @@ Participation is therefore **structured, measured, and monetized**.
 - People post more of what gets likes and less of what doesn’t.
 - Over time, content becomes optimized for visibility rather than expression.
 
-**Explanation**
-Platforms quietly shape how people behave by rewarding certain actions with attention.
 
-> Van Dijck argues that platforms don’t just enable social interaction — they engineer it. Metrics like likes and views guide what feels worth sharing.
+> Platforms quietly shape how people behave by rewarding certain actions with attention. Van Dijck argues that platforms don’t just enable social interaction — they engineer it. Metrics like likes and views guide what feels worth sharing.
 
 ---
 
@@ -92,10 +84,7 @@ Platforms quietly shape how people behave by rewarding certain actions with atte
 - Some friends or creators appear constantly in your feed.
 - Others slowly disappear, even if you still follow them.
 
-**Explanation**
-Platforms decide who becomes visible and who fades from view.
-
-> This shows the shift from connectedness (human relationships) to connectivity (data flows controlled by platforms).
+> Platforms decide who becomes visible and who fades from view. This shows the shift from connectedness (human relationships) to connectivity (data flows controlled by platforms).
 
 ---
 
@@ -128,10 +117,7 @@ Not everyone is equally visible or heard online.
 - In practice, most editors come from specific regions and language backgrounds.
 - Some topics are well represented; others are missing or underdeveloped.
 
-**Explanation**
-Participation is open in theory, but unequal in practice.
-
-> Cultural citizenship is about visibility and recognition. Being allowed to participate does not guarantee being heard.
+> Participation is open in theory, but unequal in practice. Cultural citizenship is about visibility and recognition. Being allowed to participate does not guarantee being heard.
 
 ---
 
@@ -139,10 +125,7 @@ Participation is open in theory, but unequal in practice.
 - English-language content circulates more widely.
 - Posts in other languages often receive less engagement.
 
-**Explanation**
-Digital belonging is shaped by language power.
-
-> Cultural citizenship online is uneven. Language, access, and platform design affect whose voices matter.
+> Digital belonging is shaped by language power. Cultural citizenship online is uneven. Language, access, and platform design affect whose voices matter.
 
 ---
 
@@ -151,7 +134,6 @@ Digital belonging is shaped by language power.
 - Some cultures are simplified or erased.
 - Others are overrepresented.
 
-**Speaker notes**
 > This shows how digital systems can reproduce cultural hierarchies, even when they appear neutral.
 
 ---
