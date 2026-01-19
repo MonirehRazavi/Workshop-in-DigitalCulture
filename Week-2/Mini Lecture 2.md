@@ -34,8 +34,6 @@ This helps explain why digital spaces can feel:
 
 Digital participation does not automatically create strong social bonds.
 
-![Online connection illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Social_media_icons.png/640px-Social_media_icons.png)
-
 
 ### Example 1: Temporary group chats
 - Students create a WhatsApp or Discord group for an exam, assignment, or crisis.
@@ -78,8 +76,6 @@ to
 - **connectivity** (data flows managed by platforms)
 
 Participation is therefore **structured, measured, and monetized**.
-
-![Algorithm and platform logic](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Algorithm_flowchart.svg/640px-Algorithm_flowchart.svg.png)
 
 ### Example 1: Likes shaping behavior
 - People post more of what gets likes and less of what doesn’t.
