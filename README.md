@@ -4,7 +4,7 @@ Student Guide — Submitting Your Files
 This guide explains how to upload your files  into your personal folder inside the class-practice branch.
 
 ## Step 1. Open the class repository
-Go to: https://github.com/MonirehRazavi/Workship-in-DigitalCulture
+Go to: https://github.com/MonirehRazavi/Workshop-in-DigitalCulture
 
 ## Step 2. Switch to the correct branch
 Use the branch dropdown → select class-practice.
