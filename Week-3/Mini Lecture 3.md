@@ -25,11 +25,9 @@ This week, we move from **community** to **affect and identity**.
 
 ---
 
-### ⏸ Pause & Think
+### ⏸ Pause & Think (No need to answer out loud yet — just notice.)
 - When you are active online, what emotions come up most often?
 - Do these feelings feel personal, or do they feel shaped by the platforms you use?
-
-(No need to answer out loud yet — just notice.)
 
 ---
 
@@ -168,8 +166,7 @@ It connects to:
 
 ### Part 1 — Emoji-to-Apps (Anonymous Padlet Activity)
 
-👉 Click here to access the board:  
-[Padlet board](https://padlet.com/mrazavig/digital-affect-emoji-mapping-aalz0d0g2spwbk1q)
+👉 Click here to access the board: [Padlet board #1](https://padlet.com/mrazavig/digital-affect-emoji-mapping-aalz0d0g2spwbk1q)
 
 **Instructions:**
 1. Look at the app icons posted on the Padlet.
@@ -186,8 +183,7 @@ This discussion builds on this week’s themes of **affect, identity, and self-r
 
 ### Step 1 — Padlet Response (Individual)
 
-👉 **Access the Padlet board here:**  
-[Padlet board](https://padlet.com/mrazavig/how-does-your-online-presence-differ-from-your-in-person-ide-lwlcxhqftl1tf864)
+👉 Click here to access the board: [Padlet board #2](https://padlet.com/mrazavig/how-does-your-online-presence-differ-from-your-in-person-ide-lwlcxhqftl1tf864)
 
 On the Padlet, you will see two positions:
 
