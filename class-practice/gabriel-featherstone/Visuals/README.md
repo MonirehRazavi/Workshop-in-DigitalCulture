@@ -7,5 +7,5 @@
 2. **MostRelevantSources-2026-02-09.png**  
    - This shows the most relevant sources by how many times they are cited in the dataset. At the top of the list is the JOURNAL OF PLASTIC RECONSTRUCTIVE AND AESTHETIC SURGERY, which seems highly irrelevant to my study at this point in the project.
 
-3. **03-keywords-network.png**  
-   - What it shows (1–2 sentences)
+3. **WordCloud-_2026-02-22082320.519051**  
+   - This shows that, for the most part, the most commonly used words are, in fact, relevant to my topic. However, words such as "reconstruction" and "anterolateral thigh flap" still make it into the word cloud.
