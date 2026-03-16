@@ -2,7 +2,7 @@
 
 ## Group Name
 
-Group-\1\
+Group-1
 
 ## Dataset Title
 
