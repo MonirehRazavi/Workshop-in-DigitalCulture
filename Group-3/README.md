@@ -18,9 +18,9 @@ https://figshare.com/articles/dataset/The_cultural_evolution_of_witchcraft_belie
 
 ## Dataset Description
 
-This dataset contains information about how beliefs about witchcraft vary across different societies and how those beliefs may have been culturally passed down over time.
+- This dataset contains information about how beliefs about witchcraft vary across different societies and how those beliefs may have been culturally passed down over time.
 
-It includes variables related to symbolic beliefs and demographic patterns associated with witchcraft, and was collected to analyze how these traits evolved and were culturally transmitted across different societies over time.
+- It includes variables related to symbolic beliefs and demographic patterns associated with witchcraft, and was collected to analyze how these traits evolved and were culturally transmitted across different societies over time.
 
 ------------------------------------------------------------------------
 
