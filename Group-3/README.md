@@ -44,7 +44,7 @@ Last update was the date it was posted: 2024-07-26.
 
 ## Data Collection Methods
 
-The data was gathered through ethnographic accounts, which are considered to be cultural descriptions recorded by anthropologists through observation and interviews.
+The data was collected through ethnographic accounts, which are considered to be cultural descriptions recorded by anthropologists through observation and interviews.
 
 Possible methods include:
 
