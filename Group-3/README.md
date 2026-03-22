@@ -38,7 +38,7 @@ The dataset is:
 
 -   A one-time dataset that is possibly outdated. 
 
-Last update was the date it was posted which was 2024-07-26.
+Last update was the date it was posted: 2024-07-26.
 
 ------------------------------------------------------------------------
 
