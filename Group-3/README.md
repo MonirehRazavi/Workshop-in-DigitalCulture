@@ -44,17 +44,11 @@ Last update was the date it was posted: 2024-07-26.
 
 ## Data Collection Methods
 
-Does the source explain **how the data was collected**?
+The data was gathered through ethnographic accounts, which are considered to be cultural descriptions recorded by anthropologists through observation and interviews.
 
 Possible methods include:
 
--   Surveys\
--   Administrative records\
--   Web scraping\
--   Sensors or automated collection\
--   AI-generated data
-
-Describe the method if available.
+-   Surveys
 
 ------------------------------------------------------------------------
 
