@@ -1,6 +1,7 @@
 # Week 11 — Cleaning and Enriching Your Dataset in OpenRefine
 
 ## CV-Worthy Skills Gained This Week
+- **Wikidata** Literacy: Understanding how to navigate and interpret structured linked data.
 - **Data Cleaning (Beginner Level):** Identifying and correcting inconsistencies, duplicates, and formatting issues in tabular data.  
 - **OpenRefine Competency:** Using one of the most widely recognized tools in digital scholarship for data wrangling.  
 - **Data Structuring:** Reformatting raw CSV into structured, analysis-ready datasets.  
@@ -8,8 +9,93 @@
 - **Critical Data Awareness:** Understanding the difference between “raw” vs. “clean” data and why it matters for research.  
 
 ---
+# 1. What is Wikidata?
 
-## Introduction: What is Data Cleaning and Structuring?
+Before we touch any buttons, we need to know what **Wikidata** is and why we’re using it.
+[Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) is a structured database created by the Wikimedia Foundation (the same organization that runs Wikipedia). While Wikipedia articles are written for humans to read, **Wikidata** stores facts in a way that computers can understand and **query**. Each “thing” in **Wikidata** is called an item. For example:
+
+- [William Shakespeare](https://www.wikidata.org/wiki/Q692) himself is stored as Q692. That means his “QID” (unique identifier) is Q692.
+
+- His play Hamlet has its own QID (Q41567).
+
+- A French **translation** of Hamlet also has its own QID.
+
+Instead of long names, **Wikidata** uses these Q-numbers to make sure each entity is unique and unambiguous.
+
+Now, facts in **Wikidata** are stored as triples:
+
+- A **Subject** (e.g., Hamlet in French),
+
+- A **Property** (e.g., “**translation** of”),
+
+- An **Object** (e.g., Hamlet).
+
+This is like a mini-sentence: “Hamlet in French” is a “**translation** of” “Hamlet.”
+
+## Why is this powerful?
+Because with these triples, we can build chains of knowledge: Shakespeare wrote Hamlet → Hamlet was translated into French → that French edition was published in Paris in 1870 → coordinates for Paris are (48.8566, 2.3522).
+
+And suddenly, we have **author** + **work** + **translation** + date + place — the ingredients for our time-and-space visualization.
+
+Read more about linked data [here](https://www.wikidata.org/wiki/Help:About_data).
+
+## Hands-on One: Exploring Wikidata
+
+Goal: Learn how to browse **Wikidata**, find items (QIDs), and properties (PIDs).
+
+
+
+### Step 1. Go to Wikidata
+
+👉 Visit: [https://www.**wikidata**.org/](https://www.**wikidata**.org/)
+
+
+
+###  Step 2. Find Shakespeare
+
+In the search bar (top right), type William Shakespeare.
+
+Click the result.
+
+Look at the top left: you’ll see Q692 — this is Shakespeare’s QID.
+
+💡 Discussion: What else can you see on this page? (Date of birth, place of birth, notable works, etc.)
+
+
+###  Step 3. Explore a property
+
+Scroll down Shakespeare’s page and look at one fact, for example:
+
+“Place of birth” → Stratford-upon-Avon
+
+Click “place of birth.” You’ll go to the **property** page P19.
+
+💡 Note: Properties always start with P (P19, P50, P800). Items always start with Q (Q692, Q30).
+
+
+###  Step 4. Follow a link
+
+Click on Stratford-upon-Avon (the place).
+Notice: it also has a QID (Q31031).
+
+💡 Point out:
+
+- Items link to other items, like a web of knowledge.
+
+That’s how we can travel: Shakespeare → place of birth → Stratford → coordinates.
+
+
+###  Step 5. Student Task
+
+Pick a famous person you know (a writer, singer, politician, scientist). Search for them in **Wikidata**. Write down their QID and one interesting **property** you find about them (e.g., place of birth, notable **work**, occupation).
+
+➡️ Example answers:
+
+Albert Einstein → Q937, **property** P27 (country of citizenship) = Switzerland.
+
+Beyoncé → Q36180, **property** P106 (occupation) = singer, actor.
+
+# 2. What is Data Cleaning and Structuring?
 
 **Data Cleaning** = making messy data usable.  
 Example: You have “Paris,” “paris,” “París.” Cleaning means making them all “Paris.”  
@@ -76,7 +162,7 @@ Download the sample dataset file from BrightSpace-->Week Eleven
 
 **Faceting** = grouping values to see patterns.
 
-**Hands-on Practice**
+##Hands-on One
 - Click dropdown on column `relation` → **Facet → Text facet**.  
 - On the left, you’ll see counts for each value.  
 - Which relation is most common?
@@ -152,7 +238,6 @@ By the end:
 - Dates are standardized.
 - Places are deduplicated.
 - Missing coordinates are filled.
-
 
 ---
 
