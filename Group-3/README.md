@@ -26,15 +26,9 @@ https://figshare.com/articles/dataset/The_cultural_evolution_of_witchcraft_belie
 
 ## Who Collects and Verifies the Data?
 
-Explain who collects and verifies the data.
 
-Examples:
+-   Academic researchers
 
--   Government agencies\
--   Academic researchers\
--   Non-profit organizations\
--   Private companies\
--   Crowdsourced platforms
 
 ------------------------------------------------------------------------
 
