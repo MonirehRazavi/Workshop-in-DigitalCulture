@@ -34,13 +34,11 @@ https://figshare.com/articles/dataset/The_cultural_evolution_of_witchcraft_belie
 
 ## How Frequently is the Data Updated?
 
-Explain whether the dataset is:
+The dataset is:
 
--   Updated regularly (daily / yearly / occasionally)\
--   A one-time dataset\
--   Possibly outdated
+-   A one-time dataset that is possibly outdated. 
 
-Include the **last update date** if available.
+Last update was the date it was posted which was 2024-07-26.
 
 ------------------------------------------------------------------------
 
