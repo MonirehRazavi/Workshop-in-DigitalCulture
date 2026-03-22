@@ -21,7 +21,7 @@ https://figshare.com/articles/dataset/The_cultural_evolution_of_witchcraft_belie
 Briefly describe what this dataset contains.
 
 Example:\
-This dataset contains information about \_\_\_\_\_\_\_\_\_\_.\
+This dataset contains information about how beliefs about witchcraft vary across different societies and how those beliefs may have been culturally passed down over time.
 It includes variables related to \_\_\_\_\_\_\_\_\_\_ and was collected
 to analyze \_\_\_\_\_\_\_\_\_\_.
 
