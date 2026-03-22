@@ -1,0 +1,1256 @@
+{
+    "schema": "https://ihsn.org/schemas/timeseries/1.0.0",
+    "schema_version": "1.0.0",
+    "type": "timeseries",
+    "idno": "806f8f4c-7cd1-4358-893c-34ddbbe75fdc",
+    "changed": "1770261606",
+    "changed_utc": "2026-02-04T22:20:06-05:00",
+    "created": "1724349569",
+    "created_utc": "2024-08-22T13:59:29-04:00",
+    "created_by": "51",
+    "changed_by": "6",
+    "metadata_information": {
+        "idno": "META_WB_GS_SG_GEN_MNST_ZS",
+        "producers": [
+            {
+                "name": "Development Economics Data Group",
+                "abbr": "DECDG",
+                "affiliation": "World Bank"
+            }
+        ],
+        "prod_date": "2024-08-22",
+        "version_statement": {
+            "version_notes": "Updated title formatting for consistency.",
+            "version_date": "2025-03-17",
+            "version": "1.1"
+        },
+        "title": "Metadata for Proportion of women in ministerial level positions (%)"
+    },
+    "series_description": {
+        "name": "Proportion of women in ministerial level positions (%)",
+        "idno": "WB_GS_SG_GEN_MNST_ZS",
+        "database_id": "WB_GS",
+        "languages": [
+            {
+                "name": "English",
+                "code": "EN"
+            }
+        ],
+        "measurement_unit": "Percent",
+        "periodicity": "Annual",
+        "time_periods": [
+            {
+                "start": "1960",
+                "end": "2023"
+            }
+        ],
+        "version_statement": {
+            "version": "Version 1.0",
+            "version_date": "2025-11-04"
+        },
+        "links": [
+            {
+                "type": "Website",
+                "description": "DDH",
+                "uri": "https://datacatalog.worldbank.org/search/dataset/0037654/Gender-Statistics"
+            },
+            {
+                "type": "Website",
+                "description": "Gender Data Portal",
+                "uri": "https://genderdata.worldbank.org/en/home"
+            },
+            {
+                "type": "Website",
+                "description": "World Bank Data Terms of Use",
+                "uri": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets"
+            },
+            {
+                "type": "API",
+                "description": "World Bank Data API",
+                "uri": "https://api.worldbank.org/v2/sources/14/indicators"
+            }
+        ],
+        "aggregation_method": "Weighted average",
+        "aggregation_method_references": [
+            {
+                "source": "Gender Statistics",
+                "uri": "https://api.worldbank.org/v2/sources/14/series/SG.GEN.MNST.ZS/metadata"
+            }
+        ],
+        "definition_short": "Proportion of women in ministerial level positions (%)",
+        "methodology": "It is calculated by dividing the number of women Cabinet members by the total number of ministers, which includes both women and men who head Ministries. The data is compiled from Permanent Missions to the United Nations, official government websites, and other publicly available sources.",
+        "title": "Proportion of women in ministerial level positions (%)",
+        "topics": [
+            {
+                "id": "P2",
+                "name": "People",
+                "vocabulary": "WB Practice Groups"
+            },
+            {
+                "id": "P2_000002",
+                "name": "Gender",
+                "vocabulary": "Data360 Topic L1"
+            },
+            {
+                "vocabulary": "Data360 Topic L2",
+                "parent_id": "P2_000002",
+                "name": "Leadership",
+                "id": "P2_000107"
+            }
+        ],
+        "definition_long": "Women in ministerial level positions is the proportion of women in ministerial or equivalent positions (including deputy prime ministers) in the government. Prime Ministers/Heads of Government are included when they hold ministerial portfolios. Vice-Presidents and heads of governmental or public agencies are excluded.",
+        "sources": [
+            {
+                "name": "Women in Politics",
+                "organization": "Inter-Parliamentary Union"
+            },
+            {
+                "organization": "UN Women"
+            }
+        ],
+        "license": [
+            {
+                "name": "CC BY 4.0",
+                "uri": "https://creativecommons.org/licenses/by/4.0/",
+                "note": "This work is provided under a Creative Commons 4.0 Attribution International License, with the following mandatory and binding addition:i. Any and all disputes arising under this License that cannot be settled amicably shall be submitted to mediation in accordance with the WIPO Mediation Rules in effect at the time the work was published. If the request for mediation is not resolved within forty-five (45) days of the request, either You or the Licensor may, pursuant to a notice of arbitration communicated by reasonable means to the other party refer the dispute to final and binding arbitration to be conducted in accordance with UNCITRAL Arbitration Rules as then in force. The arbitral tribunal shall consist of a sole arbitrator and the language of the proceedings shall be English unless otherwise agreed. The place of arbitration shall be where the Licensor has its headquarters. The arbitral proceedings shall be conducted remotely (e.g., via telephone conference or written submissions) whenever practicable, or held at the World Bank headquarters in Washington DC."
+            }
+        ],
+        "confidentiality_status": "PU",
+        "dimensions": [
+            {
+                "label": "Geographic area",
+                "description": "Country/economy, Region"
+            }
+        ],
+        "ref_country": [
+            {
+                "code": "ABW",
+                "name": "Aruba"
+            },
+            {
+                "code": "AFG",
+                "name": "Afghanistan"
+            },
+            {
+                "code": "AGO",
+                "name": "Angola"
+            },
+            {
+                "code": "ALB",
+                "name": "Albania"
+            },
+            {
+                "code": "AND",
+                "name": "Andorra"
+            },
+            {
+                "code": "ARE",
+                "name": "United Arab Emirates"
+            },
+            {
+                "code": "ARG",
+                "name": "Argentina"
+            },
+            {
+                "code": "ARM",
+                "name": "Armenia"
+            },
+            {
+                "code": "ASM",
+                "name": "American Samoa"
+            },
+            {
+                "code": "ATG",
+                "name": "Antigua and Barbuda"
+            },
+            {
+                "code": "AUS",
+                "name": "Australia"
+            },
+            {
+                "code": "AUT",
+                "name": "Austria"
+            },
+            {
+                "code": "AZE",
+                "name": "Azerbaijan"
+            },
+            {
+                "code": "BDI",
+                "name": "Burundi"
+            },
+            {
+                "code": "BEL",
+                "name": "Belgium"
+            },
+            {
+                "code": "BEN",
+                "name": "Benin"
+            },
+            {
+                "code": "BFA",
+                "name": "Burkina Faso"
+            },
+            {
+                "code": "BGD",
+                "name": "Bangladesh"
+            },
+            {
+                "code": "BGR",
+                "name": "Bulgaria"
+            },
+            {
+                "code": "BHR",
+                "name": "Bahrain"
+            },
+            {
+                "code": "BHS",
+                "name": "Bahamas, The"
+            },
+            {
+                "code": "BIH",
+                "name": "Bosnia and Herzegovina"
+            },
+            {
+                "code": "BLR",
+                "name": "Belarus"
+            },
+            {
+                "code": "BLZ",
+                "name": "Belize"
+            },
+            {
+                "code": "BMU",
+                "name": "Bermuda"
+            },
+            {
+                "code": "BOL",
+                "name": "Bolivia"
+            },
+            {
+                "code": "BRA",
+                "name": "Brazil"
+            },
+            {
+                "code": "BRB",
+                "name": "Barbados"
+            },
+            {
+                "code": "BRN",
+                "name": "Brunei Darussalam"
+            },
+            {
+                "code": "BTN",
+                "name": "Bhutan"
+            },
+            {
+                "code": "BWA",
+                "name": "Botswana"
+            },
+            {
+                "code": "CAF",
+                "name": "Central African Republic"
+            },
+            {
+                "code": "CAN",
+                "name": "Canada"
+            },
+            {
+                "code": "CHE",
+                "name": "Switzerland"
+            },
+            {
+                "code": "CHI",
+                "name": "Channel Islands"
+            },
+            {
+                "code": "CHL",
+                "name": "Chile"
+            },
+            {
+                "code": "CHN",
+                "name": "China"
+            },
+            {
+                "code": "CIV",
+                "name": "Cote d'Ivoire"
+            },
+            {
+                "code": "CMR",
+                "name": "Cameroon"
+            },
+            {
+                "code": "COD",
+                "name": "Congo, Dem. Rep."
+            },
+            {
+                "code": "COG",
+                "name": "Congo, Rep."
+            },
+            {
+                "code": "COL",
+                "name": "Colombia"
+            },
+            {
+                "code": "COM",
+                "name": "Comoros"
+            },
+            {
+                "code": "CPV",
+                "name": "Cabo Verde"
+            },
+            {
+                "code": "CRI",
+                "name": "Costa Rica"
+            },
+            {
+                "code": "CUB",
+                "name": "Cuba"
+            },
+            {
+                "code": "CUW",
+                "name": "Curacao"
+            },
+            {
+                "code": "CYM",
+                "name": "Cayman Islands"
+            },
+            {
+                "code": "CYP",
+                "name": "Cyprus"
+            },
+            {
+                "code": "CZE",
+                "name": "Czechia"
+            },
+            {
+                "code": "DEU",
+                "name": "Germany"
+            },
+            {
+                "code": "DJI",
+                "name": "Djibouti"
+            },
+            {
+                "code": "DMA",
+                "name": "Dominica"
+            },
+            {
+                "code": "DNK",
+                "name": "Denmark"
+            },
+            {
+                "code": "DOM",
+                "name": "Dominican Republic"
+            },
+            {
+                "code": "DZA",
+                "name": "Algeria"
+            },
+            {
+                "code": "ECU",
+                "name": "Ecuador"
+            },
+            {
+                "code": "EGY",
+                "name": "Egypt, Arab Rep."
+            },
+            {
+                "code": "ERI",
+                "name": "Eritrea"
+            },
+            {
+                "code": "ESP",
+                "name": "Spain"
+            },
+            {
+                "code": "EST",
+                "name": "Estonia"
+            },
+            {
+                "code": "ETH",
+                "name": "Ethiopia"
+            },
+            {
+                "code": "FIN",
+                "name": "Finland"
+            },
+            {
+                "code": "FJI",
+                "name": "Fiji"
+            },
+            {
+                "code": "FRA",
+                "name": "France"
+            },
+            {
+                "code": "FRO",
+                "name": "Faroe Islands"
+            },
+            {
+                "code": "FSM",
+                "name": "Micronesia, Fed. Sts."
+            },
+            {
+                "code": "GAB",
+                "name": "Gabon"
+            },
+            {
+                "code": "GBR",
+                "name": "United Kingdom"
+            },
+            {
+                "code": "GEO",
+                "name": "Georgia"
+            },
+            {
+                "code": "GHA",
+                "name": "Ghana"
+            },
+            {
+                "code": "GIB",
+                "name": "Gibraltar"
+            },
+            {
+                "code": "GIN",
+                "name": "Guinea"
+            },
+            {
+                "code": "GMB",
+                "name": "Gambia, The"
+            },
+            {
+                "code": "GNB",
+                "name": "Guinea-Bissau"
+            },
+            {
+                "code": "GNQ",
+                "name": "Equatorial Guinea"
+            },
+            {
+                "code": "GRC",
+                "name": "Greece"
+            },
+            {
+                "code": "GRD",
+                "name": "Grenada"
+            },
+            {
+                "code": "GRL",
+                "name": "Greenland"
+            },
+            {
+                "code": "GTM",
+                "name": "Guatemala"
+            },
+            {
+                "code": "GUM",
+                "name": "Guam"
+            },
+            {
+                "code": "GUY",
+                "name": "Guyana"
+            },
+            {
+                "code": "HKG",
+                "name": "Hong Kong SAR, China"
+            },
+            {
+                "code": "HND",
+                "name": "Honduras"
+            },
+            {
+                "code": "HRV",
+                "name": "Croatia"
+            },
+            {
+                "code": "HTI",
+                "name": "Haiti"
+            },
+            {
+                "code": "HUN",
+                "name": "Hungary"
+            },
+            {
+                "code": "IDN",
+                "name": "Indonesia"
+            },
+            {
+                "code": "IMN",
+                "name": "Isle of Man"
+            },
+            {
+                "code": "IND",
+                "name": "India"
+            },
+            {
+                "code": "IRL",
+                "name": "Ireland"
+            },
+            {
+                "code": "IRN",
+                "name": "Iran, Islamic Rep."
+            },
+            {
+                "code": "IRQ",
+                "name": "Iraq"
+            },
+            {
+                "code": "ISL",
+                "name": "Iceland"
+            },
+            {
+                "code": "ISR",
+                "name": "Israel"
+            },
+            {
+                "code": "ITA",
+                "name": "Italy"
+            },
+            {
+                "code": "JAM",
+                "name": "Jamaica"
+            },
+            {
+                "code": "JOR",
+                "name": "Jordan"
+            },
+            {
+                "code": "JPN",
+                "name": "Japan"
+            },
+            {
+                "code": "KAZ",
+                "name": "Kazakhstan"
+            },
+            {
+                "code": "KEN",
+                "name": "Kenya"
+            },
+            {
+                "code": "KGZ",
+                "name": "Kyrgyz Republic"
+            },
+            {
+                "code": "KHM",
+                "name": "Cambodia"
+            },
+            {
+                "code": "KIR",
+                "name": "Kiribati"
+            },
+            {
+                "code": "KNA",
+                "name": "St. Kitts and Nevis"
+            },
+            {
+                "code": "KOR",
+                "name": "Korea, Rep."
+            },
+            {
+                "code": "KWT",
+                "name": "Kuwait"
+            },
+            {
+                "code": "LAO",
+                "name": "Lao PDR"
+            },
+            {
+                "code": "LBN",
+                "name": "Lebanon"
+            },
+            {
+                "code": "LBR",
+                "name": "Liberia"
+            },
+            {
+                "code": "LBY",
+                "name": "Libya"
+            },
+            {
+                "code": "LCA",
+                "name": "St. Lucia"
+            },
+            {
+                "code": "LIE",
+                "name": "Liechtenstein"
+            },
+            {
+                "code": "LKA",
+                "name": "Sri Lanka"
+            },
+            {
+                "code": "LSO",
+                "name": "Lesotho"
+            },
+            {
+                "code": "LTU",
+                "name": "Lithuania"
+            },
+            {
+                "code": "LUX",
+                "name": "Luxembourg"
+            },
+            {
+                "code": "LVA",
+                "name": "Latvia"
+            },
+            {
+                "code": "MAC",
+                "name": "Macao SAR, China"
+            },
+            {
+                "code": "MAF",
+                "name": "St. Martin (French part)"
+            },
+            {
+                "code": "MAR",
+                "name": "Morocco"
+            },
+            {
+                "code": "MCO",
+                "name": "Monaco"
+            },
+            {
+                "code": "MDA",
+                "name": "Moldova"
+            },
+            {
+                "code": "MDG",
+                "name": "Madagascar"
+            },
+            {
+                "code": "MDV",
+                "name": "Maldives"
+            },
+            {
+                "code": "MEX",
+                "name": "Mexico"
+            },
+            {
+                "code": "MHL",
+                "name": "Marshall Islands"
+            },
+            {
+                "code": "MKD",
+                "name": "North Macedonia"
+            },
+            {
+                "code": "MLI",
+                "name": "Mali"
+            },
+            {
+                "code": "MLT",
+                "name": "Malta"
+            },
+            {
+                "code": "MMR",
+                "name": "Myanmar"
+            },
+            {
+                "code": "MNE",
+                "name": "Montenegro"
+            },
+            {
+                "code": "MNG",
+                "name": "Mongolia"
+            },
+            {
+                "code": "MNP",
+                "name": "Northern Mariana Islands"
+            },
+            {
+                "code": "MOZ",
+                "name": "Mozambique"
+            },
+            {
+                "code": "MRT",
+                "name": "Mauritania"
+            },
+            {
+                "code": "MUS",
+                "name": "Mauritius"
+            },
+            {
+                "code": "MWI",
+                "name": "Malawi"
+            },
+            {
+                "code": "MYS",
+                "name": "Malaysia"
+            },
+            {
+                "code": "NAM",
+                "name": "Namibia"
+            },
+            {
+                "code": "NCL",
+                "name": "New Caledonia"
+            },
+            {
+                "code": "NER",
+                "name": "Niger"
+            },
+            {
+                "code": "NGA",
+                "name": "Nigeria"
+            },
+            {
+                "code": "NIC",
+                "name": "Nicaragua"
+            },
+            {
+                "code": "NLD",
+                "name": "Netherlands"
+            },
+            {
+                "code": "NOR",
+                "name": "Norway"
+            },
+            {
+                "code": "NPL",
+                "name": "Nepal"
+            },
+            {
+                "code": "NRU",
+                "name": "Nauru"
+            },
+            {
+                "code": "NZL",
+                "name": "New Zealand"
+            },
+            {
+                "code": "OMN",
+                "name": "Oman"
+            },
+            {
+                "code": "PAK",
+                "name": "Pakistan"
+            },
+            {
+                "code": "PAN",
+                "name": "Panama"
+            },
+            {
+                "code": "PER",
+                "name": "Peru"
+            },
+            {
+                "code": "PHL",
+                "name": "Philippines"
+            },
+            {
+                "code": "PLW",
+                "name": "Palau"
+            },
+            {
+                "code": "PNG",
+                "name": "Papua New Guinea"
+            },
+            {
+                "code": "POL",
+                "name": "Poland"
+            },
+            {
+                "code": "PRI",
+                "name": "Puerto Rico"
+            },
+            {
+                "code": "PRK",
+                "name": "Korea, Dem. People's Rep."
+            },
+            {
+                "code": "PRT",
+                "name": "Portugal"
+            },
+            {
+                "code": "PRY",
+                "name": "Paraguay"
+            },
+            {
+                "code": "PSE",
+                "name": "West Bank and Gaza"
+            },
+            {
+                "code": "PYF",
+                "name": "French Polynesia"
+            },
+            {
+                "code": "QAT",
+                "name": "Qatar"
+            },
+            {
+                "code": "ROU",
+                "name": "Romania"
+            },
+            {
+                "code": "RUS",
+                "name": "Russian Federation"
+            },
+            {
+                "code": "RWA",
+                "name": "Rwanda"
+            },
+            {
+                "code": "SAU",
+                "name": "Saudi Arabia"
+            },
+            {
+                "code": "SDN",
+                "name": "Sudan"
+            },
+            {
+                "code": "SEN",
+                "name": "Senegal"
+            },
+            {
+                "code": "SGP",
+                "name": "Singapore"
+            },
+            {
+                "code": "SLB",
+                "name": "Solomon Islands"
+            },
+            {
+                "code": "SLE",
+                "name": "Sierra Leone"
+            },
+            {
+                "code": "SLV",
+                "name": "El Salvador"
+            },
+            {
+                "code": "SMR",
+                "name": "San Marino"
+            },
+            {
+                "code": "SOM",
+                "name": "Somalia"
+            },
+            {
+                "code": "SRB",
+                "name": "Serbia"
+            },
+            {
+                "code": "SSD",
+                "name": "South Sudan"
+            },
+            {
+                "code": "STP",
+                "name": "Sao Tome and Principe"
+            },
+            {
+                "code": "SUR",
+                "name": "Suriname"
+            },
+            {
+                "code": "SVK",
+                "name": "Slovak Republic"
+            },
+            {
+                "code": "SVN",
+                "name": "Slovenia"
+            },
+            {
+                "code": "SWE",
+                "name": "Sweden"
+            },
+            {
+                "code": "SWZ",
+                "name": "Eswatini"
+            },
+            {
+                "code": "SXM",
+                "name": "Sint Maarten (Dutch part)"
+            },
+            {
+                "code": "SYC",
+                "name": "Seychelles"
+            },
+            {
+                "code": "SYR",
+                "name": "Syrian Arab Republic"
+            },
+            {
+                "code": "TCA",
+                "name": "Turks and Caicos Islands"
+            },
+            {
+                "code": "TCD",
+                "name": "Chad"
+            },
+            {
+                "code": "TGO",
+                "name": "Togo"
+            },
+            {
+                "code": "THA",
+                "name": "Thailand"
+            },
+            {
+                "code": "TJK",
+                "name": "Tajikistan"
+            },
+            {
+                "code": "TKM",
+                "name": "Turkmenistan"
+            },
+            {
+                "code": "TLS",
+                "name": "Timor-Leste"
+            },
+            {
+                "code": "TON",
+                "name": "Tonga"
+            },
+            {
+                "code": "TTO",
+                "name": "Trinidad and Tobago"
+            },
+            {
+                "code": "TUN",
+                "name": "Tunisia"
+            },
+            {
+                "code": "TUR",
+                "name": "Turkiye"
+            },
+            {
+                "code": "TUV",
+                "name": "Tuvalu"
+            },
+            {
+                "code": "TZA",
+                "name": "Tanzania"
+            },
+            {
+                "code": "UGA",
+                "name": "Uganda"
+            },
+            {
+                "code": "UKR",
+                "name": "Ukraine"
+            },
+            {
+                "code": "URY",
+                "name": "Uruguay"
+            },
+            {
+                "code": "USA",
+                "name": "United States"
+            },
+            {
+                "code": "UZB",
+                "name": "Uzbekistan"
+            },
+            {
+                "code": "VCT",
+                "name": "St. Vincent and the Grenadines"
+            },
+            {
+                "code": "VEN",
+                "name": "Venezuela, RB"
+            },
+            {
+                "code": "VGB",
+                "name": "British Virgin Islands"
+            },
+            {
+                "code": "VIR",
+                "name": "Virgin Islands (U.S.)"
+            },
+            {
+                "code": "VNM",
+                "name": "Viet Nam"
+            },
+            {
+                "code": "VUT",
+                "name": "Vanuatu"
+            },
+            {
+                "code": "WSM",
+                "name": "Samoa"
+            },
+            {
+                "code": "XKX",
+                "name": "Kosovo"
+            },
+            {
+                "code": "YEM",
+                "name": "Yemen, Rep."
+            },
+            {
+                "code": "ZAF",
+                "name": "South Africa"
+            },
+            {
+                "code": "ZMB",
+                "name": "Zambia"
+            },
+            {
+                "code": "ZWE",
+                "name": "Zimbabwe"
+            }
+        ],
+        "geographic_units": [
+            {
+                "code": "AFE",
+                "name": "Africa Eastern and Southern"
+            },
+            {
+                "code": "AFW",
+                "name": "Africa Western and Central"
+            },
+            {
+                "code": "ARB",
+                "name": "Arab World"
+            },
+            {
+                "code": "CEB",
+                "name": "Central Electricity Board (CEB)"
+            },
+            {
+                "code": "CSS",
+                "name": "Caribbean small states"
+            },
+            {
+                "code": "EAP",
+                "name": "East Asia & Pacific (excluding high income)"
+            },
+            {
+                "code": "EAR",
+                "name": "Early-demographic dividend"
+            },
+            {
+                "code": "EAS",
+                "name": "East Asia & Pacific"
+            },
+            {
+                "code": "ECA",
+                "name": "Europe & Central Asia (excluding high income)"
+            },
+            {
+                "code": "ECS",
+                "name": "Europe & Central Asia"
+            },
+            {
+                "code": "EMU",
+                "name": "Euro area"
+            },
+            {
+                "code": "EUU",
+                "name": "European Union"
+            },
+            {
+                "code": "FCS",
+                "name": "Fragile and conflict affected situations"
+            },
+            {
+                "code": "HIC",
+                "name": "High income"
+            },
+            {
+                "code": "HPC",
+                "name": "Heavily indebted poor countries (HIPC)"
+            },
+            {
+                "code": "IBD",
+                "name": "IBRD only"
+            },
+            {
+                "code": "IBT",
+                "name": "IDA & IBRD total"
+            },
+            {
+                "code": "IDA",
+                "name": "IDA total"
+            },
+            {
+                "code": "IDB",
+                "name": "IDA blend"
+            },
+            {
+                "code": "IDX",
+                "name": "IDA only"
+            },
+            {
+                "code": "LAC",
+                "name": "Latin America & Caribbean (excluding high income)"
+            },
+            {
+                "code": "LCN",
+                "name": "Latin America & Caribbean"
+            },
+            {
+                "code": "LDC",
+                "name": "Least developed countries: UN classification"
+            },
+            {
+                "code": "LIC",
+                "name": "Low income"
+            },
+            {
+                "code": "LMC",
+                "name": "Lower middle income"
+            },
+            {
+                "code": "LMY",
+                "name": "Low & middle income"
+            },
+            {
+                "code": "LTE",
+                "name": "Late-demographic dividend"
+            },
+            {
+                "code": "MEA",
+                "name": "Middle East and North Africa"
+            },
+            {
+                "code": "MIC",
+                "name": "Middle income"
+            },
+            {
+                "code": "MNA",
+                "name": "Middle East & North Africa (excluding high income)"
+            },
+            {
+                "code": "NAC",
+                "name": "North America"
+            },
+            {
+                "code": "OED",
+                "name": "OECD members"
+            },
+            {
+                "code": "OSS",
+                "name": "Other small states"
+            },
+            {
+                "code": "PRE",
+                "name": "Pre-demographic dividend"
+            },
+            {
+                "code": "PSS",
+                "name": "Pacific island small states"
+            },
+            {
+                "code": "PST",
+                "name": "Post-demographic dividend"
+            },
+            {
+                "code": "SAS",
+                "name": "South Asia"
+            },
+            {
+                "code": "SSA",
+                "name": "Sub-Saharan Africa (excluding high income)"
+            },
+            {
+                "code": "SSF",
+                "name": "Sub-Saharan Africa"
+            },
+            {
+                "code": "SST",
+                "name": "Small states"
+            },
+            {
+                "code": "TEA",
+                "name": "East Asia & Pacific (IDA & IBRD)"
+            },
+            {
+                "code": "TEC",
+                "name": "Europe & Central Asia (IDA & IBRD)"
+            },
+            {
+                "code": "TLA",
+                "name": "Latin America & Caribbean (IDA & IBRD)"
+            },
+            {
+                "code": "TMN",
+                "name": "Middle East & North Africa (IDA & IBRD)"
+            },
+            {
+                "code": "TSA",
+                "name": "South Asia (IDA & IBRD)"
+            },
+            {
+                "code": "TSS",
+                "name": "Sub-Saharan Africa (IDA & IBRD)"
+            },
+            {
+                "code": "UMC",
+                "name": "Upper middle income"
+            },
+            {
+                "code": "WLD",
+                "name": "World"
+            }
+        ],
+        "database_name": "Gender Statistics"
+    },
+    "tags": [
+        {
+            "tag": "P2_000002",
+            "tag_group": "feature-topic-profile"
+        },
+        {
+            "tag": "WB_GS",
+            "tag_group": "feature-dataset-profile"
+        }
+    ],
+    "additional": {
+        "visualization": {
+            "chart_type": [
+                {
+                    "chart_types": "stackedBar"
+                },
+                {
+                    "chart_types": "pie"
+                }
+            ]
+        }
+    },
+    "admin_metadata": {
+        "data360": {
+            "tags": [
+                {
+                    "tag": "P2_000002",
+                    "tag_group": "feature-topic-profile"
+                },
+                {
+                    "tag": "WB_GS",
+                    "tag_group": "feature-dataset-profile"
+                }
+            ],
+            "visualization": {
+                "remove_chart": [
+                    {
+                        "chart_types": "stackedBar"
+                    },
+                    {
+                        "chart_types": "pie"
+                    }
+                ]
+            },
+            "topics": [
+                {
+                    "id": "P2",
+                    "label": "People",
+                    "vocabulary": "WB Practice Groups"
+                },
+                {
+                    "id": "P2_000002",
+                    "label": "Gender",
+                    "vocabulary": "Data360 Topic L1",
+                    "parent_id": "P2"
+                },
+                {
+                    "id": "P2_000107",
+                    "label": "Leadership",
+                    "vocabulary": "Data360 Topic L2",
+                    "parent_id": "P2_000002"
+                }
+            ]
+        }
+    }
+}

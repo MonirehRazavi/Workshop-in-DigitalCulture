@@ -1,0 +1,706 @@
+{
+    "schema": "https://ihsn.org/schemas/timeseries/1.0.0",
+    "schema_version": "1.0.0",
+    "type": "timeseries",
+    "idno": "f68bb524-bb98-4e33-9ef2-dd1dec794e21",
+    "changed": "1770261699",
+    "changed_utc": "2026-02-04T22:21:39-05:00",
+    "created": "1723577244",
+    "created_utc": "2024-08-13T15:27:24-04:00",
+    "created_by": "91",
+    "changed_by": "6",
+    "metadata_information": {
+        "idno": "META_IMF_GENDER_EQUALITY_GE_GII",
+        "producers": [
+            {
+                "name": "Development Economics Data Group",
+                "abbr": "DECDG",
+                "affiliation": "World Bank"
+            }
+        ],
+        "version_statement": {
+            "version_notes": "Updated title formatting for consistency.",
+            "version_date": "2025-03-17",
+            "version": "1.1"
+        },
+        "title": "Metadata for Gender inequality index"
+    },
+    "series_description": {
+        "name": "Gender Inequality Index",
+        "idno": "IMF_GENDER_EQUALITY_GE_GII",
+        "database_id": "IMF_GENDER_EQUALITY",
+        "languages": [
+            {
+                "name": "English",
+                "code": "EN"
+            }
+        ],
+        "measurement_unit": "Score",
+        "dimensions": [
+            {
+                "label": "Year"
+            },
+            {
+                "label": "Geographic area",
+                "description": "Country/economy, Region"
+            }
+        ],
+        "periodicity": "Annual",
+        "time_periods": [
+            {
+                "start": "1990",
+                "end": "2013"
+            }
+        ],
+        "ref_country": [
+            {
+                "name": "Burundi",
+                "code": "BDI"
+            },
+            {
+                "name": "China",
+                "code": "CHN"
+            },
+            {
+                "name": "Gambia, The",
+                "code": "GMB"
+            },
+            {
+                "name": "Germany",
+                "code": "DEU"
+            },
+            {
+                "name": "Ghana",
+                "code": "GHA"
+            },
+            {
+                "name": "Greece",
+                "code": "GRC"
+            },
+            {
+                "name": "Lithuania",
+                "code": "LTU"
+            },
+            {
+                "name": "Luxembourg",
+                "code": "LUX"
+            },
+            {
+                "name": "Malawi",
+                "code": "MWI"
+            },
+            {
+                "name": "Panama",
+                "code": "PAN"
+            },
+            {
+                "name": "Papua New Guinea",
+                "code": "PNG"
+            },
+            {
+                "name": "Paraguay",
+                "code": "PRY"
+            },
+            {
+                "name": "Peru",
+                "code": "PER"
+            },
+            {
+                "name": "Philippines",
+                "code": "PHL"
+            },
+            {
+                "name": "Tanzania",
+                "code": "TZA"
+            },
+            {
+                "name": "Thailand",
+                "code": "THA"
+            },
+            {
+                "name": "Togo",
+                "code": "TGO"
+            },
+            {
+                "name": "Tonga",
+                "code": "TON"
+            },
+            {
+                "name": "Cambodia",
+                "code": "KHM"
+            },
+            {
+                "name": "Cameroon",
+                "code": "CMR"
+            },
+            {
+                "name": "Canada",
+                "code": "CAN"
+            },
+            {
+                "name": "Central African Republic",
+                "code": "CAF"
+            },
+            {
+                "name": "Chile",
+                "code": "CHL"
+            },
+            {
+                "name": "Guatemala",
+                "code": "GTM"
+            },
+            {
+                "name": "Lesotho",
+                "code": "LSO"
+            },
+            {
+                "name": "Liberia",
+                "code": "LBR"
+            },
+            {
+                "name": "Libya",
+                "code": "LBY"
+            },
+            {
+                "name": "Australia",
+                "code": "AUS"
+            },
+            {
+                "name": "Botswana",
+                "code": "BWA"
+            },
+            {
+                "name": "Brazil",
+                "code": "BRA"
+            },
+            {
+                "name": "Bulgaria",
+                "code": "BGR"
+            },
+            {
+                "name": "Gabon",
+                "code": "GAB"
+            },
+            {
+                "name": "Kenya",
+                "code": "KEN"
+            },
+            {
+                "name": "Korea, Rep.",
+                "code": "KOR"
+            },
+            {
+                "name": "Kuwait",
+                "code": "KWT"
+            },
+            {
+                "name": "Netherlands",
+                "code": "NLD"
+            },
+            {
+                "name": "Spain",
+                "code": "ESP"
+            },
+            {
+                "name": "Sri Lanka",
+                "code": "LKA"
+            },
+            {
+                "name": "Zimbabwe",
+                "code": "ZWE"
+            },
+            {
+                "name": "Benin",
+                "code": "BEN"
+            },
+            {
+                "name": "Bolivia",
+                "code": "BOL"
+            },
+            {
+                "name": "Estonia",
+                "code": "EST"
+            },
+            {
+                "name": "Fiji",
+                "code": "FJI"
+            },
+            {
+                "name": "Finland",
+                "code": "FIN"
+            },
+            {
+                "name": "France",
+                "code": "FRA"
+            },
+            {
+                "name": "Algeria",
+                "code": "DZA"
+            },
+            {
+                "name": "Armenia",
+                "code": "ARM"
+            },
+            {
+                "name": "Bahrain",
+                "code": "BHR"
+            },
+            {
+                "name": "Bangladesh",
+                "code": "BGD"
+            },
+            {
+                "name": "Barbados",
+                "code": "BRB"
+            },
+            {
+                "name": "Dominican Republic",
+                "code": "DOM"
+            },
+            {
+                "name": "Ecuador",
+                "code": "ECU"
+            },
+            {
+                "name": "Egypt, Arab Rep.",
+                "code": "EGY"
+            },
+            {
+                "name": "El Salvador",
+                "code": "SLV"
+            },
+            {
+                "name": "Iran, Islamic Rep.",
+                "code": "IRN"
+            },
+            {
+                "name": "Kazakhstan",
+                "code": "KAZ"
+            },
+            {
+                "name": "Morocco",
+                "code": "MAR"
+            },
+            {
+                "name": "Mozambique",
+                "code": "MOZ"
+            },
+            {
+                "name": "Myanmar",
+                "code": "MMR"
+            },
+            {
+                "name": "Namibia",
+                "code": "NAM"
+            },
+            {
+                "name": "Nepal",
+                "code": "NPL"
+            },
+            {
+                "name": "United States",
+                "code": "USA"
+            },
+            {
+                "name": "Uruguay",
+                "code": "URY"
+            },
+            {
+                "name": "Venezuela, RB",
+                "code": "VEN"
+            },
+            {
+                "name": "Yemen, Rep.",
+                "code": "YEM"
+            },
+            {
+                "name": "Zambia",
+                "code": "ZMB"
+            },
+            {
+                "name": "Belgium",
+                "code": "BEL"
+            },
+            {
+                "name": "Belize",
+                "code": "BLZ"
+            },
+            {
+                "name": "Cyprus",
+                "code": "CYP"
+            },
+            {
+                "name": "Czechia",
+                "code": "CZE"
+            },
+            {
+                "name": "Denmark",
+                "code": "DNK"
+            },
+            {
+                "name": "Albania",
+                "code": "ALB"
+            },
+            {
+                "name": "Argentina",
+                "code": "ARG"
+            },
+            {
+                "name": "Afghanistan",
+                "code": "AFG"
+            },
+            {
+                "name": "Austria",
+                "code": "AUT"
+            },
+            {
+                "name": "Colombia",
+                "code": "COL"
+            },
+            {
+                "name": "Congo, Dem. Rep.",
+                "code": "COD"
+            },
+            {
+                "name": "Congo, Rep.",
+                "code": "COG"
+            },
+            {
+                "name": "Costa Rica",
+                "code": "CRI"
+            },
+            {
+                "name": "Hungary",
+                "code": "HUN"
+            },
+            {
+                "name": "Iceland",
+                "code": "ISL"
+            },
+            {
+                "name": "India",
+                "code": "IND"
+            },
+            {
+                "name": "Indonesia",
+                "code": "IDN"
+            },
+            {
+                "name": "Malaysia",
+                "code": "MYS"
+            },
+            {
+                "name": "Maldives",
+                "code": "MDV"
+            },
+            {
+                "name": "Mali",
+                "code": "MLI"
+            },
+            {
+                "name": "Malta",
+                "code": "MLT"
+            },
+            {
+                "name": "Saudi Arabia",
+                "code": "SAU"
+            },
+            {
+                "name": "Senegal",
+                "code": "SEN"
+            },
+            {
+                "name": "Serbia",
+                "code": "SRB"
+            },
+            {
+                "name": "Trinidad and Tobago",
+                "code": "TTO"
+            },
+            {
+                "name": "United Kingdom",
+                "code": "GBR"
+            },
+            {
+                "name": "C\u00f4te d\u2019Ivoire",
+                "code": "CIV"
+            },
+            {
+                "name": "Croatia",
+                "code": "HRV"
+            },
+            {
+                "name": "Guyana",
+                "code": "GUY"
+            },
+            {
+                "name": "Haiti",
+                "code": "HTI"
+            },
+            {
+                "name": "Honduras",
+                "code": "HND"
+            },
+            {
+                "name": "Poland",
+                "code": "POL"
+            },
+            {
+                "name": "Portugal",
+                "code": "PRT"
+            },
+            {
+                "name": "Qatar",
+                "code": "QAT"
+            },
+            {
+                "name": "Sweden",
+                "code": "SWE"
+            },
+            {
+                "name": "Switzerland",
+                "code": "CHE"
+            },
+            {
+                "name": "Syrian Arab Republic",
+                "code": "SYR"
+            },
+            {
+                "name": "Tajikistan",
+                "code": "TJK"
+            },
+            {
+                "name": "Kyrgyz Republic",
+                "code": "KGZ"
+            },
+            {
+                "name": "Lao PDR",
+                "code": "LAO"
+            },
+            {
+                "name": "Latvia",
+                "code": "LVA"
+            },
+            {
+                "name": "New Zealand",
+                "code": "NZL"
+            },
+            {
+                "name": "Nicaragua",
+                "code": "NIC"
+            },
+            {
+                "name": "Niger",
+                "code": "NER"
+            },
+            {
+                "name": "Norway",
+                "code": "NOR"
+            },
+            {
+                "name": "Pakistan",
+                "code": "PAK"
+            },
+            {
+                "name": "Sudan",
+                "code": "SDN"
+            },
+            {
+                "name": "Eswatini",
+                "code": "SWZ"
+            },
+            {
+                "name": "Iraq",
+                "code": "IRQ"
+            },
+            {
+                "name": "Ireland",
+                "code": "IRL"
+            },
+            {
+                "name": "Israel",
+                "code": "ISR"
+            },
+            {
+                "name": "Italy",
+                "code": "ITA"
+            },
+            {
+                "name": "Jamaica",
+                "code": "JAM"
+            },
+            {
+                "name": "Japan",
+                "code": "JPN"
+            },
+            {
+                "name": "Jordan",
+                "code": "JOR"
+            },
+            {
+                "name": "Moldova",
+                "code": "MDA"
+            },
+            {
+                "name": "Mongolia",
+                "code": "MNG"
+            },
+            {
+                "name": "Sierra Leone",
+                "code": "SLE"
+            },
+            {
+                "name": "Singapore",
+                "code": "SGP"
+            },
+            {
+                "name": "Slovak Republic",
+                "code": "SVK"
+            },
+            {
+                "name": "Slovenia",
+                "code": "SVN"
+            },
+            {
+                "name": "South Africa",
+                "code": "ZAF"
+            },
+            {
+                "name": "Vietnam",
+                "code": "VNM"
+            },
+            {
+                "name": "Mauritania",
+                "code": "MRT"
+            },
+            {
+                "name": "Mauritius",
+                "code": "MUS"
+            },
+            {
+                "name": "Mexico",
+                "code": "MEX"
+            },
+            {
+                "name": "Romania",
+                "code": "ROU"
+            },
+            {
+                "name": "Russian Federation",
+                "code": "RUS"
+            },
+            {
+                "name": "Rwanda",
+                "code": "RWA"
+            },
+            {
+                "name": "Tunisia",
+                "code": "TUN"
+            },
+            {
+                "name": "T\u00fcrkiye",
+                "code": "TUR"
+            },
+            {
+                "name": "Uganda",
+                "code": "UGA"
+            },
+            {
+                "name": "Ukraine",
+                "code": "UKR"
+            },
+            {
+                "name": "United Arab Emirates",
+                "code": "ARE"
+            },
+            {
+                "name": "Cuba",
+                "code": "CUB"
+            }
+        ],
+        "version_statement": {
+            "version_date": "2024-08-13"
+        },
+        "license": [
+            {
+                "name": "License Specified Externally",
+                "uri": "https://www.imf.org/external/terms.htm",
+                "note": "This material is being redistributed with the express permission of the copyright holder."
+            }
+        ],
+        "disciplines": [
+            {
+                "id": "P2",
+                "name": "People",
+                "vocabulary": "WB Practice Groups"
+            },
+            {
+                "id": "P2_000002",
+                "name": "Gender",
+                "vocabulary": "Data360 Topic L1",
+                "parent_id": "P2"
+            },
+            {
+                "name": "Norms and Decision-making",
+                "id": "P2_000040",
+                "parent_id": "P2_000002",
+                "vocabulary": "Data360 Topic L2"
+            },
+            {
+                "id": "P3",
+                "name": "Prosperity",
+                "vocabulary": "WB Practice Groups"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Gender Equality",
+                "organization": "International Monetary Fund (IMF)",
+                "uri": "https://data.imf.org/?sk=388dfa60-1d26-4ade-b505-a05a558d9a42&sId=1479329132316"
+            }
+        ],
+        "title": "Gender inequality index",
+        "definition_long": "Please refer to: https://legacydata.imf.org/?sk=AC81946B-43E4-4FF3-84C7-217A6BDE8191",
+        "methodology": "Please refer to: https://legacydata.imf.org/?sk=AC81946B-43E4-4FF3-84C7-217A6BDE8191",
+        "confidentiality_status": "PU",
+        "database_name": "Gender Equality"
+    },
+    "tags": [
+        {
+            "tag": "IMF_GENDER_EQUALITY",
+            "tag_group": "feature-dataset-profile"
+        }
+    ],
+    "additional": {
+        "visualization": {
+            "chart_type": [
+                {
+                    "chart_types": "pie"
+                },
+                {
+                    "chart_types": "stackedBar"
+                }
+            ]
+        }
+    },
+    "admin_metadata": {
+        "data360": {
+            "tags": [
+                {
+                    "tag": "IMF_GENDER_EQUALITY",
+                    "tag_group": "feature-dataset-profile"
+                }
+            ],
+            "visualization": {
+                "remove_chart": [
+                    {
+                        "chart_types": "stackedBar"
+                    },
+                    {
+                        "chart_types": "pie"
+                    }
+                ]
+            }
+        }
+    }
+}
