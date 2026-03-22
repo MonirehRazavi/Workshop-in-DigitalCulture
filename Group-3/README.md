@@ -98,9 +98,7 @@ Explain why these variables are useful for your research question.
 
 ## File Format
 
-Example:
-
-CSV / JSON / XLSX
+CSV 
 
 ------------------------------------------------------------------------
 
