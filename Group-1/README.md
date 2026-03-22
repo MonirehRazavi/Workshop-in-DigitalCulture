@@ -188,80 +188,45 @@ https://data360.worldbank.org/en/indicator/VDEM_CORE_V2X_GENDER?view=trend&count
 
 ## Dataset Description
 
-Briefly describe what this dataset contains.
-
-Example:\
-This dataset contains information about \_\_\_\_\_\_\_\_\_\_.\
-It includes variables related to \_\_\_\_\_\_\_\_\_\_ and was collected
-to analyze \_\_\_\_\_\_\_\_\_\_.
+This dataset looks at women’s empowerment index in 175 economies across the world. For our data, we are focusing on Canada, and have limited the timeframe to range between 1960 and 2024. Using an interval scale from low to high (0-1), this dataset defines women’s political empowerment as a “process of increasing capacity for women, leading to greater choices, agency, and participation in societal decision-making”. By focusing on three equally-weighted dimensions, this dataset uses an interval scale from low to high (0-1), looking at fundamental civil liberties, women’s open discussion of political issues and participation in civil society organizations, and the descriptive representation of women in formal political positions. 
 
 ------------------------------------------------------------------------
 
 ## Who Collects and Verifies the Data?
 
-Explain who collects and verifies the data.
-
-Examples:
-
--   Government agencies\
--   Academic researchers\
--   Non-profit organizations\
--   Private companies\
--   Crowdsourced platforms
+This dataset is collected through V-Dem (Varieties of Democracy Institute). This institute is based in the Department of Political Science at the University of Gothenburg in Sweden.  
 
 ------------------------------------------------------------------------
 
 ## How Frequently is the Data Updated?
 
-Explain whether the dataset is:
-
--   Updated regularly (daily / yearly / occasionally)\
--   A one-time dataset\
--   Possibly outdated
-
-Include the **last update date** if available.
+The dataset is updated annually, with the most recent update being 7 months ago. 
 
 ------------------------------------------------------------------------
 
 ## Data Collection Methods
 
-Does the source explain **how the data was collected**?
-
-Possible methods include:
-
--   Surveys\
--   Administrative records\
--   Web scraping\
--   Sensors or automated collection\
--   AI-generated data
-
-Describe the method if available.
+V-Dem’s methodology handbook explains their data collection methods at great lengths. They collect their data mostly through expert surveys (each specific to one country for the most accurate results), aggregation of expert ratings using the Bayesian statistics model, and interval-level estimates. 
 
 ------------------------------------------------------------------------
 
 ## Raw Data or Aggregated Data?
 
-Explain whether the dataset provides:
-
--   Raw microdata (individual-level records)\
--   Aggregated statistics (summaries or totals)
+This dataset is a demonstration of aggregate data as it is a combination of expert findings across the world. To produce the dataset index, the different measurements are integrated into each data point. 
 
 ------------------------------------------------------------------------
 
 ## Key Variables in the Dataset
 
-List the main variables included in the dataset.
-
-Example:
-
--   Age\
--   Gender\
--   Location\
+Variables in the dataset include:
+-   Country
+-   Year
+-   Women's political power index
 -   Date\
 -   Engagement metrics\
 -   Platform usage
 
-Explain why these variables are useful for your research question.
+These variables will be helpful in answering our research question as it is a key variable in showing how women’s rights have evolved over time. 
 
 ------------------------------------------------------------------------
 
@@ -269,13 +234,13 @@ Explain why these variables are useful for your research question.
 
 Example:
 
-CSV / JSON / / PDF / API Access 
+CSV / JSON / PDF / API Access 
 
 ------------------------------------------------------------------------
 
 ## Notes
 
-Write any observations or limitations about the dataset.
+Since this dataset was used as a comparison between different countries, there are no in-depth descriptions on information related to Canada. Using only the estimated points across the years, it is harder to understand what these points mean and where the information for them came from, and what political movements might have impacted them. 
 
 ------------------------------------------------------------------------
 
