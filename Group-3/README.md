@@ -22,8 +22,8 @@ Briefly describe what this dataset contains.
 
 Example:\
 This dataset contains information about how beliefs about witchcraft vary across different societies and how those beliefs may have been culturally passed down over time.
-It includes variables related to \_\_\_\_\_\_\_\_\_\_ and was collected
-to analyze \_\_\_\_\_\_\_\_\_\_.
+
+It includes variables related to symbolic beliefs and demographic patterns associated with witchcraft, and was collected to analyze how these traits evolved and were culturally transmitted across different societies over time.
 
 ------------------------------------------------------------------------
 
