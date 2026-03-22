@@ -10,10 +10,9 @@ The cultural evolution of witchcraft beliefs
 
 ## Dataset Source
 
-Provide the link where the dataset was downloaded.
+The link to the dataset
+https://figshare.com/articles/dataset/The_cultural_evolution_of_witchcraft_beliefs/26381308 
 
-Example:\
-https://example-database.org
 
 ------------------------------------------------------------------------
 
