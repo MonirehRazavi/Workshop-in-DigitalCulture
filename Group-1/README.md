@@ -66,7 +66,7 @@ These variables are useful for our research question as it answers and highlight
 
 ## File Format
 
-JSON / PDF / Wide Format / SDMX CSV / Data dictionary
+CSV / JSON / PDF / API Access
 
 ------------------------------------------------------------------------
 
@@ -156,7 +156,7 @@ These variables are useful because they help:
 
 Example:
 
-CSV / XLSX / API Access
+CSV / XLSX / JSON / PDF / API Access
 
 ------------------------------------------------------------------------
 
@@ -269,7 +269,7 @@ Explain why these variables are useful for your research question.
 
 Example:
 
-CSV / JSON / XLSX
+CSV / JSON / / PDF / API Access 
 
 ------------------------------------------------------------------------
 
@@ -343,7 +343,7 @@ These variables are useful because they show a comparison of gender inequality:
 
 Example:
 
-CSV / PNG / SVG / JPEG
+CSV / JSON / PDF / API Access 
 
 ------------------------------------------------------------------------
 
