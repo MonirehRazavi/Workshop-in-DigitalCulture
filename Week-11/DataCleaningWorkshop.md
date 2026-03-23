@@ -201,7 +201,7 @@ Repeat on the `author` column to see spelling variations.
 **Why it matters:**  
 Links your data to standardized entities (`Q692` for Shakespeare, `Q7243` for Tolstoy).
 
-**Hands-on Practice**
+
 - On `author` or `placeLabel` column → **Reconcile → Start reconciling → Choose Wikidata**.  
 - Accept matches.  
 - Then: **Add columns from reconciled values → Add property** (e.g., *Date of birth*, *Country of citizenship*).  
