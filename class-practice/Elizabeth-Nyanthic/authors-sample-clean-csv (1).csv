@@ -1,0 +1,13 @@
+author,workLabel,relation,date,language,placeLabel
+William shakespeare,Hamlet,translation_of,2001-05-14,English,London
+"Shakespear, W.",Romeo and Juliet,edition_or_translation_of,05/1999,english,london
+Shakspeare,Macbeth,based_on,1997,Français,Paris
+"Tolstoi, Leo",War and Peace,based_on,March 2010,Russian,Moscow
+Lev Tolstoy,Anna Karenina,translation_of,2013-04-02,русский,moskva
+tolstoy,The Death of Ivan Ilyich,edition_or_translation_of,2015-12-01,russian,Saint Petersburg
+"Garcia Marquez, Gabriel",One Hundred Years of Solitude,based_on,April 1982,Español,Bogotá
+Gabriel García Márquez,Love in the Time of Cholera,translation_of,1999-01-15,spanish,bogota
+gabriel garcia marquez,Chronicle of a Death Foretold,based_on,1997-05-01,español,Buenos Aires
+Homer,The Odyssey,edition_or_translation_of,700 BC,Greek,Athens
+Homer (Greek poet),The Iliad,translation_of,750 BC,Ελληνικά,athina
+Hoomer,Odyysey,based_on,700BC,greek,"Athens, Greece"
