@@ -90,6 +90,68 @@ CSV
 
 ------------------------------------------------------------------------
 
-## Notes
 
-The COVID-19 crash in April 2020 is the single most dramatic data point as women's employment dropped by roughly 1.5 million in just two months, more sharply than men's, likely due to women's concentration in service and hospitality sectors.
+# Dataset Documentation
+
+## Group Name
+
+Group-2
+Dataset_2
+
+## Dataset Title
+
+Average and median gender wage ratio, annual
+
+## Dataset Source
+
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034002
+
+------------------------------------------------------------------------
+
+## Dataset Description
+
+This dataset comes from Statistics Canada's Table 14-10-0340-02 and tracks the gender wage ratio in Canada from 1997 to 2022. The dataset measures the ratio of women's wages relative to men's wages across different occupations using both average and median hourly earnings. A value closer to 1 indicates greater pay equality, while values below 1 show that women earn less than men on average. The data is organized by occupational categories based on the National Occupational Classification (NOC), which makes it useful for analyzing wage disparities across different sectors of the workforce.
+
+------------------------------------------------------------------------
+
+## Who Collects and Verifies the Data?
+
+The data is collected and managed entirely by Statistics Canada, which is the federal government agency responsible for producing official statistics for Canada.
+
+------------------------------------------------------------------------
+
+## How Frequently is the Data Updated?
+
+This dataset is updated annually. Statistics Canada compiles wage information each year using labour market surveys and administrative data sources. The version used for this project was released on January 6, 2023.
+
+------------------------------------------------------------------------
+
+## Data Collection Methods
+
+The data is collected through Statistics Canada's labour market and wage-related statistical programs. These programs gather information on hourly wages, employment characteristics, and occupation types across Canada. The data is then processed and aggregated to calculate average and median gender wage ratios for different occupational groups.
+
+------------------------------------------------------------------------
+
+## Raw Data or Aggregated Data?
+
+This is Aggregated data.
+
+------------------------------------------------------------------------
+
+## Key Variables in the Dataset
+
+Year (1997-2022)
+Occupation (NOC categories)
+Measure Type (Average hourly gender wage ratio / Median hourly gender wage ratio)
+Gender Wage Ratio (women's earnings relative to men's earnings)
+Type of Work (both full-time and part-time employees)
+Age Group (15 years and over)
+Geography (Canada)
+
+------------------------------------------------------------------------
+
+## File Format
+
+CSV
+
+------------------------------------------------------------------------
