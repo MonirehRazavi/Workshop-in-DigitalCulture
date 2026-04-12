@@ -3,108 +3,92 @@
 
 ## Group Name
 
-Group-\_\_
+Group-2
 
 ## Dataset Title
 
-Write the name of the dataset.
+Labour force characteristics by gender and detailed age group, monthly, unadjusted for seasonality (x 1,000)
 
 ## Dataset Source
 
-Provide the link where the dataset was downloaded.
-
-Example:\
-https://example-database.org
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410001701&utm_source=chatgpt.com 
 
 ------------------------------------------------------------------------
 
 ## Dataset Description
+his dataset comes from Statistics Canada's Labour Force Survey (Table 14-10-0017-01) and tracks monthly employment figures for Canada from January 1976 to March 2026. The data is broken down by gender (Total, Men+, and Women+) and detailed age group, with employment measured in thousands of persons. 
 
-Briefly describe what this dataset contains.
 
-Example:\
-This dataset contains information about \_\_\_\_\_\_\_\_\_\_.\
-It includes variables related to \_\_\_\_\_\_\_\_\_\_ and was collected
-to analyze \_\_\_\_\_\_\_\_\_\_.
 
 ------------------------------------------------------------------------
 
 ## Who Collects and Verifies the Data?
 
-Explain who collects and verifies the data.
-
-Examples:
-
--   Government agencies\
--   Academic researchers\
--   Non-profit organizations\
--   Private companies\
--   Crowdsourced platforms
+The data is collected and managed entirely by Statistics Canada, which is the federal government agency responsible for producing official statistics for Canada.
 
 ------------------------------------------------------------------------
 
 ## How Frequently is the Data Updated?
 
-Explain whether the dataset is:
-
--   Updated regularly (daily / yearly / occasionally)\
--   A one-time dataset\
--   Possibly outdated
-
-Include the **last update date** if available.
+The Labour Force Survey is conducted monthly, making it one of the most frequently updated economic datasets in Canada.
+Collection happens during the week containing the 15th of each month, which Statistics Canada calls the "reference week." Interviewers contact their assigned households during that week and record the employment status of all members aged 15 and older.
+The version we uploaded was released on April 10 2026.
 
 ------------------------------------------------------------------------
 
 ## Data Collection Methods
 
-Does the source explain **how the data was collected**?
-
-Possible methods include:
-
--   Surveys\
--   Administrative records\
--   Web scraping\
--   Sensors or automated collection\
--   AI-generated data
-
-Describe the method if available.
+Collection is done through the Labour Force Survey (LFS), which is one of Canada's largest and longest-running household surveys. Every month, Statistics Canada contacts approximately 56,000 households across the country and asks about the employment status of household members aged 15 and older. Participation is mandatory under the Statistics Act.
 
 ------------------------------------------------------------------------
 
 ## Raw Data or Aggregated Data?
 
-Explain whether the dataset provides:
-
--   Raw microdata (individual-level records)\
--   Aggregated statistics (summaries or totals)
+This is Aggregated data.
 
 ------------------------------------------------------------------------
 
 ## Key Variables in the Dataset
 
-List the main variables included in the dataset.
-
-Example:
-
--   Age\
--   Gender\
--   Location\
--   Date\
--   Engagement metrics\
--   Platform usage
-
-Explain why these variables are useful for your research question.
+Year
+Month
+Date (Month + Year)
+Gender (Total / Men+ / Women+)
+Age Group (15 years and over)
+Age Group (15 to 24 years)
+Age Group (25 years and over)
+Age Group (25 to 44 years)
+Age Group (45 to 64 years)
+Age Group (45 years and over)
+Age Group (25 to 54 years)
+Age Group (55 years and over)
+Age Group (15 to 64 years)
+Age Group (15 to 19 years)
+Age Group (20 to 24 years)
+Age Group (25 to 29 years)
+Age Group (30 to 34 years)
+Age Group (35 to 39 years)
+Age Group (40 to 44 years)
+Age Group (45 to 49 years)
+Age Group (50 to 54 years)
+Age Group (55 to 59 years)
+Age Group (60 to 64 years)
+Age Group (65 years and over)
+Age Group (65 to 69 years)
+Age Group (70 years and over)
+Total Employed (thousands)
+Men+ Employed (thousands)
+Women+ Employed (thousands)
+Geography (Canada)
 
 ------------------------------------------------------------------------
 
 ## File Format
 
-Example:
-
-CSV / JSON / XLSX
+CSV
 
 ------------------------------------------------------------------------
 
 ## Notes
 
-Write any observations or limitations about the dataset.
+The COVID-19 crash in April 2020 is the single most dramatic data point as women's employment dropped by roughly 1.5 million in just two months, more sharply than men's, likely due to women's concentration in service and hospitality sectors.
