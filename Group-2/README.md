@@ -17,7 +17,7 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410001701&utm_source=chat
 ------------------------------------------------------------------------
 
 ## Dataset Description
-his dataset comes from Statistics Canada's Labour Force Survey (Table 14-10-0017-01) and tracks monthly employment figures for Canada from January 1976 to March 2026. The data is broken down by gender (Total, Men+, and Women+) and detailed age group, with employment measured in thousands of persons. 
+This dataset comes from Statistics Canada's Labour Force Survey (Table 14-10-0017-01) and tracks monthly employment figures for Canada from January 1976 to March 2026. The data is broken down by gender (Total, Men+, and Women+) and detailed age group, with employment measured in thousands of persons. 
 
 
 
